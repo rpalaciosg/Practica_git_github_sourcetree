@@ -1,4 +1,4 @@
-# Git nuestro
+# Git nuestro de cada repo
 
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
